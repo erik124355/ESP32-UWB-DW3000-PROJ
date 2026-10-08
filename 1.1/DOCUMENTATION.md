@@ -72,8 +72,3 @@ Watch how the tag moves in the viewer as it is carried around the room:
 
 
 https://github.com/user-attachments/assets/88922e3c-78ba-4bd1-9395-b24164896206
-
-o.mov)
-
-<!-- To play the video directly on GitHub, drag the file into the README editor on github.com.
-     GitHub then inserts a link that plays inline. -->
