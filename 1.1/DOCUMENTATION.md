@@ -70,7 +70,10 @@ The graph shows the tag's height over the last 30 seconds, in metres. A fast dro
 
 Watch how the tag moves in the viewer as it is carried around the room:
 
-[Watch the demo video](videos/demo.mov)
+
+https://github.com/user-attachments/assets/88922e3c-78ba-4bd1-9395-b24164896206
+
+o.mov)
 
 <!-- To play the video directly on GitHub, drag the file into the README editor on github.com.
      GitHub then inserts a link that plays inline. -->
